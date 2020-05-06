@@ -30,7 +30,7 @@ def main():
             }
             embeds.append(embed)
         except:
-            pass
+            pasds
 
     headers = {
         "Content-Type": "application/json",
